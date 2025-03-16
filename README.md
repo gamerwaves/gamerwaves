@@ -1,5 +1,5 @@
 ## Hi there, i'm Dwait 👋
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=gamerwaves&style=for-the-badge&label=Profile%20Views:&color=ff69b4"/>
 
 - 🔭 I’m currently working on ideas for a new project
 - 🌱 I’m currently learning flask
